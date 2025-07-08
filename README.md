@@ -1,2 +1,4 @@
 # toxic-comment-detection
-this is my github repository
+This is my github repository
+<br>
+Author-Jerusha angel
